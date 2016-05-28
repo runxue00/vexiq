@@ -46,7 +46,7 @@ task main()
 	setMotorTarget(left, 950, 100);
 	setMotorTarget(right, 950, 100);
 	waitUntilMotorStop(left);
-	waitUntilMotorStop(right)
+	waitUntilMotorStop(right);
 
 
 
